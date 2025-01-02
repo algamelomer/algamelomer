@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Omar Algamel
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&width=435&lines=AI+Developer+%7C+Object+Detection+Expert;Self-Driving+Car+Enthusiast)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&width=435&lines=web+and+app+developer+%7C+AI+Developer+%7C+Object+Detection+Expert;Self-Driving+Car+Enthusiast)
 
 ---
 
