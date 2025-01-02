@@ -14,7 +14,10 @@
 
 ## 🚀 Featured Projects
 
-[[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=algamelomer&repo=self-driving-car-ai&theme=radical)](https://github.com/algamelomer/self-driving-car-ai)](https://github-readme-stats.vercel.app/api/pin/?username=algamelomer&repo=Mediapipe-tflite-object-detection-&theme=radical)](https://github.com/algamelomer/Mediapipe-tflite-object-detection-)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=algamelomer&repo=yolov8-detection&theme=radical)](https://github.com/algamelomer/yolov8-detection)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=algamelomer&repo=Mediapipe-tflite-object-detection-&theme=radical)](https://github.com/algamelomer/Mediapipe-tflite-object-detection-)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=algamelomer&repo=yolov8-detection&theme=radical)](https://github.com/algamelomer/yolov8-detection)
 
 ---
 
