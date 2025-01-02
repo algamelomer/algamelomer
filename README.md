@@ -1,6 +1,8 @@
 # Hi there! 👋 I'm Omar Algamel
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&width=435&lines=web+developer+%7C+flutter+developer;AI+Developer+%7C+Object+Detection+Expert;Self-Driving+Car+Enthusiast)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&width=435&lines=web+developer+%7C+full+stack;app+development+%7C+Flutter)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&width=435&lines=web+developer+%7C+flutter+developer;AI+Developer+%7C+Object+Detection+Expert;Self-Driving+Car+%7C+object+detection+etc.)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&width=435&lines=embedded+system+expert+%7C+Iot;Arduino+%7C+RPI+%7C+custom+boards+%7C+micro+controller)
 
 ---
 
