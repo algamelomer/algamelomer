@@ -20,6 +20,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=algamelomer&repo=self-driving-car&theme=radical)](https://github.com/algamelomer/self-driving-car)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=algamelomer&repo=Mlebuu&theme=radical)](https://github.com/algamelomer/Mlebuu)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=algamelomer&repo=EgyTech-Team-Project-PHP&theme=radical)](https://github.com/algamelomer/EgyTech-Team-Project-PHP)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=algamelomer&repo=smart-parking-comp.-vision-&theme=radical)](https://github.com/algamelomer/smart-parking-comp.-vision-)
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=algamelomer&repo=yolov8-detection&theme=radical)](https://github.com/algamelomer/yolov8-detection)
@@ -37,4 +38,4 @@
 ## 🤝 Let’s Connect
 
 - **Email:** [omeralgamel@gmail.com](mailto:omeralgamel@gmail.com)  
-- **Portfolio Website:** [yourwebsite.com](https://yourwebsite.com)  
+- **Portfolio Website:** [yourwebsite.com](https://algamelomer.github.io/portfolio/)  
