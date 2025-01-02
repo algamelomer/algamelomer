@@ -17,6 +17,7 @@
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=algamelomer&repo=Mediapipe-tflite-object-detection-&theme=radical)](https://github.com/algamelomer/Mediapipe-tflite-object-detection-)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=algamelomer&repo=self-driving-car&theme=radical)](https://github.com/algamelomer/self-driving-car)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=algamelomer&repo=yolov8-detection&theme=radical)](https://github.com/algamelomer/yolov8-detection)
 
 ---
