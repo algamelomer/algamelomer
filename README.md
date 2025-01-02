@@ -19,6 +19,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=algamelomer&repo=Mediapipe-tflite-object-detection-&theme=radical)](https://github.com/algamelomer/Mediapipe-tflite-object-detection-)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=algamelomer&repo=self-driving-car&theme=radical)](https://github.com/algamelomer/self-driving-car)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=algamelomer&repo=Mlebuu&theme=radical)](https://github.com/algamelomer/Mlebuu)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=algamelomer&repo=EgyTech-Team-Project-PHP&theme=radical)](https://github.com/algamelomer/EgyTech-Team-Project-PHP)
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=algamelomer&repo=yolov8-detection&theme=radical)](https://github.com/algamelomer/yolov8-detection)
