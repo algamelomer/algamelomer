@@ -22,9 +22,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=algamelomer&repo=EgyTech-Team-Project-PHP&theme=radical)](https://github.com/algamelomer/EgyTech-Team-Project-PHP)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=algamelomer&repo=smart-parking-comp.-vision-&theme=radical)](https://github.com/algamelomer/smart-parking-comp.-vision-)
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=algamelomer&repo=yolov8-detection&theme=radical)](https://github.com/algamelomer/yolov8-detection)
-
 ---
 
 ## 📊 GitHub Stats
