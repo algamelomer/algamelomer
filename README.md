@@ -61,7 +61,9 @@
 - **AI & Machine Learning:**  
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
   ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)  
-  ![YOLO](https://img.shields.io/badge/YOLO-004d00?logo=yolo&logoColor=white)  
+  ![YOLO](https://img.shields.io/badge/YOLO-004d00?logo=yolo&logoColor=white)
+  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)  
+  ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
   ![Mediapipe](https://img.shields.io/badge/Mediapipe-00B140?logo=google&logoColor=white)  
   ![Object Detection](https://img.shields.io/badge/Object%20Detection-FF6F00?logo=google&logoColor=white)
 
