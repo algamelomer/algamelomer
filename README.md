@@ -33,7 +33,7 @@
 ## 🤝 Let’s Connect
 
 - **Email:** [omeralgamel@gmail.com](mailto:omeralgamel@gmail.com)  
-- **Portfolio Website:** [www.algamelomer.xyz](www.omeralgamel.xyz)
+- **Portfolio Website:** [www.algamelomer.xyz](http://www.omeralgamel.xyz)
 
 ---
 
